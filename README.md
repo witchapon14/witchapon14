@@ -28,7 +28,7 @@
 ## 📌 Areas of Expertise  
 I have a strong foundation in multiple domains, including **Mathematical Optimization, Machine Learning, Data Engineering, and Cloud Computing**. Here’s a breakdown of my key expertise:  
 
-| 🚀 **Domain**         | 🔥 **Key Skills & Focus Areas**  | Link to it|
+| 🚀 **Domain**         | 🔥 **Key Skills & Focus Areas**  | Link to my project & lecture|
 |----------------------|--------------------------------|-------------|
 | **📊 Optimization & Math Models** | Linear & Nonlinear Programming, Convex Optimization, Graph Theory, Integer Programming |-------------|
 | **🤖 Machine Learning & AI** | Supervised & Unsupervised Learning, Reinforcement Learning, Anomaly Detection |-------------|
