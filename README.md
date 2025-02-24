@@ -25,6 +25,18 @@
 
 ---
 
+## 📌 Areas of Expertise  
+I have a strong foundation in multiple domains, including **Mathematical Optimization, Machine Learning, Data Engineering, and Cloud Computing**. Here’s a breakdown of my key expertise:  
+
+| 🚀 **Domain**         | 🔥 **Key Skills & Focus Areas**  | Link to it|
+|----------------------|--------------------------------|-------------|
+| **📊 Optimization & Math Models** | Linear & Nonlinear Programming, Convex Optimization, Graph Theory, Integer Programming |-------------|
+| **🤖 Machine Learning & AI** | Supervised & Unsupervised Learning, Reinforcement Learning, Anomaly Detection |-------------|
+| **💾 Data Engineering** | ETL Pipelines, Data Warehousing, Real-time Streaming, DuckDB, Apache Kafka |-------------|
+| **☁️ Cloud & DevOps** | AWS, GCP, Kubernetes, Docker, CI/CD, Serverless Architectures |-------------|
+| **🔐 Cybersecurity & AI Security** | Intrusion Detection, DDoS Mitigation, AI for Threat Intelligence |-------------|
+
+---
 ## 📊 Profile Overview  
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=witchapon14&label=Profile%20views&color=0e75b6&style=flat" alt="witchapon14" />
